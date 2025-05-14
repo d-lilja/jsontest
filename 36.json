@@ -22,7 +22,7 @@
       "data": [
         {
           "type": "html",
-          "html": "<table border='1' cellpadding='8' cellspacing='0'><tbody><th>Order</th><th>Track</th><tr><td><a href='https://catwalk.na-kd.com/orderadmin/details?id=26195253' target='_blank'>EP0026211383</a></td><td><a href='https://www.na-kd.com/sv/tracking?email=daniel.lilja%40na-kd.com&orderNumber=EP0024409619' target=\"_blank\">Tracking</a></td></tr></tbody></table>"
+          "html": "<style>table{border-collapse:collapse;width:100%}th,td{padding:8px;text-align:left;border-bottom:1px solid #ddd}thead{background-color:#f2f2f2}tr:hover{background-color:#f5f5f5}</style><table border='1' cellpadding='8' cellspacing='0'><tbody><th>Order</th><th>Track</th><tr><td><a href='https://catwalk.na-kd.com/orderadmin/details?id=26195253' target='_blank'>EP0026211383</a></td><td><a href='https://www.na-kd.com/sv/tracking?email=daniel.lilja%40na-kd.com&orderNumber=EP0024409619' target=\"_blank\">Tracking</a></td></tr></tbody></table>"
         }
       ]
     }
