@@ -22,12 +22,7 @@
       "icon": "receipt_long",
       "data": [
         {
-          "type": "teest",
-          "rows": [
-            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }],
-            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }],
-            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }]
-          ]
+          "type": "teest"
         }
       ]
     }
