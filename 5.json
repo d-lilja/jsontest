@@ -25,7 +25,6 @@
           "type": "table",
           "headers": [
             { "text": "Order Id" },
-            { "text": "Date" },
             { "text": "Tracking" }
           ],
           "rows": [
