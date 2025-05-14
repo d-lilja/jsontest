@@ -1,0 +1,45 @@
+{
+  "contactName": null,
+  "contactLink": null,
+  "blocks": [
+    {
+      "name": "Customer information",
+      "icon": "contact_page",
+      "data": [
+        {
+          "type": "list",
+          "rows": [
+            { "label": "Customer Id", "text": "CUST12345", "href": "https://catwalk.na-kd.com/CustomerAdmin/details/936666b1-0adf-4434-95bc-3016a7d4a1cd" },
+            { "label": "Name", "text": "John Doe" },
+            { "label": "Mail", "text": "John.Doe@gmail.com" },
+            { "label": "Country", "text": "Iceland" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Customer orders",
+      "icon": "receipt_long",
+      "data": [
+        {
+          "type": "table",
+          "headers": [
+            { "text": "Order Id" },
+            { "text": "Date" },
+            { "text": "Tracking" }
+          ],
+          "rows": [
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" },
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" },
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" },
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" },
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" },
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" },
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" },
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }
+          ]
+        }
+      ]
+    }
+  ]
+}
