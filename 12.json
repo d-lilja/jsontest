@@ -1,6 +1,6 @@
 {
   "contactName": null,
-  "contactLink": null,
+  "contactLink": ["https://catwalk.na-kd.com/CustomerAdmin/details/936666b1-0adf-4434-95bc-3016a7d4a1cd"],
   "blocks": [
     {
       "name": "Customer information",
@@ -14,15 +14,6 @@
             { "label": "Mail", "text": "John.Doe@gmail.com" },
             { "label": "Country", "text": "Iceland" }
           ]
-        }
-      ]
-    },
-    {
-      "name": "Customer orders",
-      "icon": "receipt_long",
-      "data": [
-        {
-          "type": "list"
         }
       ]
     }
