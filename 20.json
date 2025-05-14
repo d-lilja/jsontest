@@ -1,0 +1,58 @@
+{
+  "contactName": null,
+  "contactLink": { "url": "https://catwalk.na-kd.com/CustomerAdmin/details/936666b1-0adf-4434-95bc-3016a7d4a1cd" },
+  "blocks": [
+    {
+      "name": "Customer",
+      "icon": "contact_page",
+      "data": [
+        {
+          "type": "list",
+          "rows": [
+            { "label": "Name", "text": "John Doe" },
+            { "label": "Mail", "text": "John.Doe@gmail.com" },
+            { "label": "Country", "text": "Iceland" }
+          ]
+        }
+      ]
+    },    
+    {
+      "name": "Orders",
+      "icon": "receipt_long",
+      "data": [
+        {
+          "type": "html",
+          "html": "
+                    <table border='1' cellpadding='8' cellspacing='0'>
+                    	<tbody>
+                    		<tr>
+                    			<td>
+                    				<a href='https://catwalk.na-kd.com/orderadmin/details?id=26195253'>EP0026211383</a>
+                    			</td>
+                    			<td>
+                    				<a href='https://www.na-kd.com/sv/tracking?email=daniel.lilja%40na-kd.com&orderNumber=EP0024409619'>Tracking</a>
+                    			</td>
+                    		</tr>
+                    		<tr>
+                    			<td>
+                    				<a href='https://catwalk.na-kd.com/orderadmin/details?id=26195253'>EP0026211383</a>
+                    			</td>
+                    			<td>
+                    				<a href='https://www.na-kd.com/sv/tracking?email=daniel.lilja%40na-kd.com&orderNumber=EP0024409619'>Tracking</a>
+                    			</td>
+                    		</tr>
+                    		<tr>
+                    			<td>
+                    				<a href='https://catwalk.na-kd.com/orderadmin/details?id=26195253'>EP0026211383</a>
+                    			</td>
+                    			<td>
+                    				<a href='https://www.na-kd.com/sv/tracking?email=daniel.lilja%40na-kd.com&orderNumber=EP0024409619'>Tracking</a>
+                    			</td>
+                    		</tr>
+                    	</tbody>
+                    </table>"
+        }
+      ]
+    }
+  ]
+}
