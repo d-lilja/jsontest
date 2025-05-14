@@ -19,13 +19,10 @@
     {
       "name": "Orders",
       "icon": "receipt_long",
-	  "data": [
+      "data": [
         {
-          "type": "list",
-          "rows": [
-            { "label": "Order", "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" },
-            { "label": "Tracking", "text": "Tracking", "href": "https://www.na-kd.com/sv/tracking?email=daniel.lilja%40na-kd.com&orderNumber=EP0024409619" }
-          ]
+          "type": "html",
+          "html": "<table border='1' cellpadding='8' cellspacing='0'><tbody><tr><td><a href='https://catwalk.na-kd.com/orderadmin/details?id=26195253' target='_blank'>EP0026211383</a></td><td><a href='https://www.na-kd.com/sv/tracking?email=daniel.lilja%40na-kd.com&orderNumber=EP0024409619' target=\"_blank\">Tracking</a></td></tr></tbody></table>"
         }
       ]
     }
