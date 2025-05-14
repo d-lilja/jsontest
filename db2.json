@@ -1,0 +1,32 @@
+{
+  "contactName": "Super Maaario",
+  "contactLink": "https://catwalk.na-kd.com/CustomerAdmin/details/936666b1-0adf-4434-95bc-3016a7d4a1cd",
+  "blocks": [
+{
+      "name": "Customer orders",
+      "icon": "receipt_long",
+      "data": [
+        {
+          "type": "table",
+          "headers": [
+            { "text": "Order Id" },
+            { "text": "Value" },
+            { "text": "Date" }
+          ],
+          "rows": [
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }],
+            [{ "text": "EP0026211383" }, { "text": "2024-01-01" }, { "text": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Completed" }]
+          ]
+        }
+      ]
+    }
+  ]
+}
