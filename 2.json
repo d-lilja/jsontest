@@ -16,6 +16,22 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Customer orders",
+      "icon": "receipt_long",
+      "data": [
+        {
+          "type": "table",
+          "headers": [
+            { "text": "Order Id" },
+            { "text": "Date" },
+            { "text": "Tracking" }
+          ],
+          "rows": [
+            [{ "text": "EP0026211383", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }, { "text": "Tracking", "href": "https://catwalk.na-kd.com/orderadmin/details?id=26195253" }]
+        }
+      ]
     }
   ]
 }
