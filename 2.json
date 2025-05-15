@@ -15,6 +15,25 @@
           ]
         }
       ]
+    },
+    {
+      "name": "Customer orders",
+      "icon": "receipt_long",
+      "data": [
+        {
+          "type": "table",
+          "headers": [
+            { "text": "Order Id" },
+            { "text": "Value" },
+            { "text": "Date" }
+          ],
+          "rows": [
+            [{ "text": "1" }, { "text": "100" }, { "text": "2024-01-01" }],
+            [{ "text": "2" }, { "text": "200" }, { "text": "2024-02-02" }],
+            [{ "text": "3" }, { "text": "300" }, { "text": "2024-03-03" }]
+          ]
+        }
+      ]
     },    
     {
       "name": "Orders",
