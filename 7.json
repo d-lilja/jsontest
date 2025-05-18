@@ -13,7 +13,7 @@
                     "rows": [
                         {
                             "label": "Name",
-                            "text": "John Doe",
+                            "text": "John Doe"
                         },
             { "label": "Mail", "text": "John.Doe@gmail.com", "href":"https://catwalk.na-kd.com/CustomerAdmin/details/936666b1-0adf-4434-95bc-3016a7d4a1cd" },
             { "label": "Country", "text": "Iceland" }
