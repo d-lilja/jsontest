@@ -35,7 +35,7 @@
                 {
                     "$type": "Html",
                     "type": "html",
-                    "html": "<table border='1' cellpadding='8' cellspacing='0'><tbody><th>Order</th><th>Track</th><th>Payment</th><tr><td><a href='https://dev.nakd.se/orderadmin/details?id=32' target='_blank'>DEV0017877542</a></td><td><a href='https://www.na-kd.com/sv/tracking?email=generated_email_de%2B1732801159500%40example.com&orderNumber=DEV0017877542' target='_blank'>Tracking</a></td><td><a href='' target='_blank'>Giftcard</a></td></tr></tbody></table>"
+                    "html": "<table border='1' cellpadding='8' cellspacing='0'><tbody><th>Order</th><th>Track</th><th>Payment</th><tr><td><a href='https://dev.nakd.se/orderadmin/details?id=32' target='_blank'>DEV0017877542</a></td><td><a href='https://www.na-kd.com/sv/tracking?email=generated_email_de%2B1732801159500%40example.com&orderNumber=DEV0017877542' target='_blank'>Tracking</a></td><td><a href='#' target='_blank'>Giftcard</a></td></tr></tbody></table>"
                 }
             ]
         }
